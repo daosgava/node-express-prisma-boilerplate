@@ -4,6 +4,9 @@ node_modules
 # Testing coverage
 coverage
 
+# MacOS files
+.DS_Store
+
 # dotenv environment variable files
 .env
 .env.development.local
