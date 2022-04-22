@@ -21,7 +21,7 @@ Requirements:
 npm i
 ```
 
-### Set Prisma ORM
+### Set Prisma ORM:
 Documentation: https://www.prisma.io/docs/
 
 ```
