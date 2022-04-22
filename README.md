@@ -13,7 +13,7 @@ Starter project for building a RESTful API using Express.
 - Prisma
 
 ## Commands
-Requirements:
+### Requirements:
 - Node version : 16.14.2
 
 ### Install dependencies:
