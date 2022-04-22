@@ -13,17 +13,17 @@ Starter project for building a RESTful API using Express.
 - Prisma
 
 ## Commands
+Requirements:
+- Node version : 16.14.2
+
+### Install dependencies:
+```
+npm i
+```
 
 ### Set Prisma ORM
 Documentation: https://www.prisma.io/docs/
 
-Requirements:
-- Node version : 16.14.2
-
-```
-# Install dependencies
-npm i
-```
 ```
 # Create an .env file and add the connection URL 
 # e.g., DATABASE_URL="mysql://root:root@localhost:3306/starter_project"
