@@ -1,4 +1,4 @@
-# Node Express Boilerplate
+# Node Express Prisma Boilerplate
 
 Starter project for building a RESTful API using Express.
 
